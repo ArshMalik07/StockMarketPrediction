@@ -1,0 +1,7 @@
+yfinance = 0.2.41
+pandas = 2.2.2
+scikit-learn = 1.5.2
+matplotlib = 3.8.0
+numpy = 1.26.2
+keras = 3.7.0
+keras-models = 0.0.7
