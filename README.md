@@ -48,5 +48,3 @@ It also generates plots for actual vs. predicted prices and future predictions.
 ## Contributing
 Feel free to submit issues or pull requests for improvements.
 
-## License
-This project is licensed under the MIT License.
